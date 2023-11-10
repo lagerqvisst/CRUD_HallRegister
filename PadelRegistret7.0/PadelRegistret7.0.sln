@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadelRegistret7.0", "PadelRegistret7.0.csproj", "{0E126293-8500-4F53-B48E-41EADD932A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E126293-8500-4F53-B48E-41EADD932A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E126293-8500-4F53-B48E-41EADD932A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E126293-8500-4F53-B48E-41EADD932A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E126293-8500-4F53-B48E-41EADD932A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C599E429-B1F4-4F1C-9867-DA2767DA9A58}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/netcoreapp3.1/PadelRegistret7.0.csproj.AssemblyReference.cache
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/netcoreapp3.1/PadelRegistret7.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/netcoreapp3.1/PadelRegistret7.0.AssemblyInfoInputs.cache
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/netcoreapp3.1/PadelRegistret7.0.AssemblyInfo.cs
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/netcoreapp3.1/PadelRegistret7.0.csproj.CoreCompileInputs.cache

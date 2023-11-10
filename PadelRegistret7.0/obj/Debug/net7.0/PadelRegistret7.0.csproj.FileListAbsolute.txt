@@ -1,0 +1,15 @@
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/bin/Debug/net7.0/PadelRegistret7.0
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/bin/Debug/net7.0/PadelRegistret7.0.deps.json
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/bin/Debug/net7.0/PadelRegistret7.0.runtimeconfig.json
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/bin/Debug/net7.0/PadelRegistret7.0.dll
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/bin/Debug/net7.0/PadelRegistret7.0.pdb
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.csproj.AssemblyReference.cache
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.AssemblyInfoInputs.cache
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.AssemblyInfo.cs
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.csproj.CoreCompileInputs.cache
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.dll
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/refint/PadelRegistret7.0.dll
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.pdb
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/PadelRegistret7.0.genruntimeconfig.cache
+/Users/alexanderlagerqvist/Library/CloudStorage/OneDrive-UniversityofBorås/PadelRegistret7.0/PadelRegistret7.0/obj/Debug/net7.0/ref/PadelRegistret7.0.dll
